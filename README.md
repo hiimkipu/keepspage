@@ -1,2 +1,2 @@
-# kipu-website.github.io
+# kipu-website.githu.io
 Hi This is kipu's website :D
